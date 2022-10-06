@@ -90,6 +90,7 @@ body
   border-radius: 5px;
   border: 1px solid #E8175D;
   width: 20%;
+  min-width: fit-content;
   height: 95vh;
   box-shadow: 0 0 70px 50px rgba(0, 0, 0, 0.445);
 }
